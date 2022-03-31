@@ -1,0 +1,61 @@
+﻿@model IEnumerable<AppIT___InterviewTask.Models.FinancialItem>
+
+@{
+    ViewData["Title"] = "App IT  Interview Task";
+}
+
+<h1>GetList</h1>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PartnerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.PartnerID
+                </td>
+                <td>
+                    @item.Date
+                </td>
+                <td>
+                    @item.Amount
+                </td>
+                 <td>
+                    @Html.ActionLink("Update", "Update", new { SelectedID=item.PartnerID }) |
+                    @Html.ActionLink("Delete", "Delete", new { SelectedID=@item.PartnerID })
+                </td>   
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<form id="frm" asp-action = "Calculation" method="post">
+       <div class="form-actions no-color">
+            <h4>Press the button to calculate fees</h4>
+            <input type="submit" value="Calculation" class="btn btn-primary" />
+        </div>
+</form>
+
+
+
+
+
+

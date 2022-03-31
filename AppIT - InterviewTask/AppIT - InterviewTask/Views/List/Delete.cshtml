@@ -1,0 +1,16 @@
+﻿@model AppIT___InterviewTask.Models.FinancialItem
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+    <h4>FinancialItem</h4>
+<form id="frm" method="post">
+       <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to List", "GetList");
+        </div>
+</form>

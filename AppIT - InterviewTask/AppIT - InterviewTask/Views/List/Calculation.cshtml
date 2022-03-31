@@ -1,0 +1,46 @@
+﻿@model IEnumerable<AppIT___InterviewTask.Models.CalculationDTO>
+
+@{
+    ViewData["Title"] = "App IT  Interview Task";
+}
+
+<h1>FeeCalculation</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PartnerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.FeePercent)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.ParentPartner)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.PartnerName
+                </td>
+                <td>
+                    @item.Amount
+                </td>
+                <td>
+                    @item.FeePercent
+                </td>
+                <td>
+                    @item.ParentPartner
+                </td> 
+            </tr>
+        }
+    </tbody>
+</table>
