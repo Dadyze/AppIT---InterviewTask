@@ -8,53 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppIT___InterviewTask
 build_property.RootNamespace = AppIT___InterviewTask
-build_property.ProjectDir = C:\Users\Dadyze\Desktop\AppIT - InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\
+build_property.ProjectDir = C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Dadyze\Desktop\AppIT - InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask
+build_property.MSBuildProjectDirectory = C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/Home/Index.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/Calculation.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/Calculation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxDYWxjdWxhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/Create.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/CalculationFee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxDYWxjdWxhdGlvbkZlZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/Delete.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/GetList.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/GetList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxHZXRMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/Update.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/List/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/Shared/Error.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/_ViewImports.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/_ViewStart.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dadyze/Desktop/AppIT - InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/Shared/_Layout.cshtml]
+[C:/Users/Nihad/Desktop/AppIT---InterviewTask/AppIT - InterviewTask/AppIT - InterviewTask/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7bx80zu5am

@@ -24,3 +24,29 @@ C:\Users\Dadyze\Desktop\AppIT - InterviewTask\AppIT - InterviewTask\AppIT - Inte
 C:\Users\Dadyze\Desktop\AppIT - InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.pdb
 C:\Users\Dadyze\Desktop\AppIT - InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.genruntimeconfig.cache
 C:\Users\Dadyze\Desktop\AppIT - InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\ref\AppIT - InterviewTask.dll
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\bin\Debug\net6.0\appsettings.json
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\bin\Debug\net6.0\AppIT - InterviewTask.staticwebassets.runtime.json
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\bin\Debug\net6.0\AppIT - InterviewTask.exe
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\bin\Debug\net6.0\AppIT - InterviewTask.deps.json
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\bin\Debug\net6.0\AppIT - InterviewTask.runtimeconfig.json
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\bin\Debug\net6.0\AppIT - InterviewTask.dll
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\bin\Debug\net6.0\AppIT - InterviewTask.pdb
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.csproj.AssemblyReference.cache
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.AssemblyInfoInputs.cache
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.AssemblyInfo.cs
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.RazorAssemblyInfo.cache
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.RazorAssemblyInfo.cs
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\scopedcss\bundle\AppIT - InterviewTask.styles.css
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\scopedcss\projectbundle\AppIT - InterviewTask.bundle.scp.css
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.dll
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\refint\AppIT - InterviewTask.dll
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.pdb
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\AppIT - InterviewTask.genruntimeconfig.cache
+C:\Users\Nihad\Desktop\AppIT---InterviewTask\AppIT - InterviewTask\AppIT - InterviewTask\obj\Debug\net6.0\ref\AppIT - InterviewTask.dll

@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dadyze\\.nuget\\packages\\": {},
-    "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Nihad\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dadyze\\Desktop\\AppIT - InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask.csproj",
+      "projectUniqueName": "C:\\Users\\Nihad\\Desktop\\AppIT---InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask.csproj",
       "projectName": "AppIT - InterviewTask",
-      "projectPath": "C:\\Users\\Dadyze\\Desktop\\AppIT - InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask.csproj",
-      "packagesPath": "C:\\Users\\Dadyze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dadyze\\Desktop\\AppIT - InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask\\obj\\",
+      "projectPath": "C:\\Users\\Nihad\\Desktop\\AppIT---InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask.csproj",
+      "packagesPath": "C:\\Users\\Nihad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nihad\\Desktop\\AppIT---InterviewTask\\AppIT - InterviewTask\\AppIT - InterviewTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dadyze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nihad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

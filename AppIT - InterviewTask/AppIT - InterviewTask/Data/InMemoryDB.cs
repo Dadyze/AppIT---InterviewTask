@@ -14,12 +14,16 @@ namespace AppIT___InterviewTask
         static InMemoryDB()
         {
             _list = new List<FinancialItem>();
-            _list.Add(new FinancialItem { PartnerID = 1, Date = DateTime.Now, Amount = 12321 });
-            _list.Add(new FinancialItem { PartnerID = 2, Date = DateTime.Now, Amount = 123122 });
-            _list.Add(new FinancialItem { PartnerID = 3, Date = DateTime.Now, Amount = 123123 });
-            _list.Add(new FinancialItem { PartnerID = 4, Date = DateTime.Now, Amount = 4234234 });
-            _list.Add(new FinancialItem { PartnerID = 5, Date = DateTime.Now, Amount = 1241231 });
-            _list.Add(new FinancialItem { PartnerID = 6, Date = DateTime.Now, Amount = 123123123 });
+            _list.Add(new FinancialItem { PartnerID = 1, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 2, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 3, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 4, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 5, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 6, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 7, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 8, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 9, Date = DateTime.Now, Amount = 10 });
+            _list.Add(new FinancialItem { PartnerID = 10,Date = DateTime.Now, Amount = 10 });
 
             _partnerList = new List<Partner>();
             _partnerList.Add(new Partner { PartnerID = 1, ParentPartner = 10, PartnerName = "John", FeePercent = 10 });

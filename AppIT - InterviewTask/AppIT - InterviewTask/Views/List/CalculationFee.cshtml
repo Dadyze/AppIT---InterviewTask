@@ -1,0 +1,54 @@
+﻿@model IEnumerable<AppIT___InterviewTask.Models.CalculationFeeDTO>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>FEE Calcualtion Stats</h1>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PartnerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TeamShoppingAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalShoppingAmount)
+            </th> 
+            <th>
+                @Html.DisplayNameFor(model => model.PersonalBonus)
+            </th> 
+            <th>
+                @Html.DisplayNameFor(model => model.TeamBonus)
+            </th> 
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.PartnerName
+                </td>
+                <td>
+                    @item.TeamShoppingAmount
+                </td>
+                <td>
+                     @item.TotalShoppingAmount
+                </td>
+                <td>
+                     @item.PersonalBonus
+                </td>
+                <td>
+                     @item.TeamBonus
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
